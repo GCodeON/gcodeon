@@ -1,6 +1,6 @@
 <h3 align="center">Full Stack Developer</h3>
 
-- 👨‍💻 Check out my portfolio here: [http://www.gerardosoto.dev/](http://www.gerardosoto.dev/)
+👨‍💻 Check out my portfolio here: [http://www.gerardosoto.dev/](http://www.gerardosoto.dev/)
 
 <h3 align="left">Languages and Tools:</h3>
 
